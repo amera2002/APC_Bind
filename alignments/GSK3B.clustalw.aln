@@ -1,0 +1,122 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Q4R812          ------------------------------------------------------------
+Q9P0R6          ------------------------------------------------------------
+Q5PPI3          ------------------------------------------------------------
+Q8BGR8          ------------------------------------------------------------
+A0A2F0AUL6      --------------------------MELSSVSAFEEDAELNGFEGTDMKDMRLEAEAVV
+Q0P5A3          ------------------------------------------------------------
+A0A3Q7X1M1      ------------------------------------------------------------
+A0A8K0BGN8      ------------------------------------------------------------
+A0A8K0C289      ------------------------------------------------------------
+Q5ZMC6          ------------------------------------------------------------
+A0A1L8F9M0      ------------------------------------------------------------
+A4IIW5          ------------------------------------------------------------
+A0A8M2B5T9      ------------------------------------------------------------
+A0A8M9P8U9      ------------------------------------------------------------
+Q7ZWI4          ------------------------------------------------------------
+A0A6P7LMK8      ------------------------------------------------------------
+A0A0B2V7H1      MSRTPSPSPFTPPSSPSASCQCVPPVLSFNGRSLTGTPSANFLADTLGVSPLYRQQDSAR
+A0A0M3K7P8      MSRASSPSPFTPPSSPSASCQCIPNVLSFHGRPLTGTPSANFLADTLGVSPLYRQQD---
+                                                                            
+
+Q4R812          ----------------------------------------------------METDCNPM
+Q9P0R6          ----------------------------------------------------METDCNPM
+Q5PPI3          ----------------------------------------------------METDCNPV
+Q8BGR8          ----------------------------------------------------METDYNPV
+A0A2F0AUL6      NDVLFAVNTMFVSKTLRCADDVAYINVETRERNRYCLELTEAGLRVNLSDLGMETDCNPM
+Q0P5A3          ----------------------------------------------------METDCNPM
+A0A3Q7X1M1      --------------------------------------------MVQASTVRMETDCNPM
+A0A8K0BGN8      ---------------------------------------------------RMETDCNPM
+A0A8K0C289      ---------------------------------------------------RMETDCNPM
+Q5ZMC6          ----------------------------------------------------METDCSPM
+A0A1L8F9M0      ----------------------------------------------------MEVDYNPM
+A4IIW5          ----------------------------------------------------MEVDYNPM
+A0A8M2B5T9      --------------------------------------------------MGMEVDCKPE
+A0A8M9P8U9      --------------------------------------MSRKCTDELPPEEGMEVDCKPE
+Q7ZWI4          ----------------------------------------------------MEVDCKPE
+A0A6P7LMK8      ----------------------------------------------------MEIDCQPE
+A0A0B2V7H1      WQGAAQVYQCSRSRGHSRAHSPAPGARPEPYLYPPSVTPQLITEHLSAVYNTLGTPLSLE
+A0A0M3K7P8      -----------RSRGHSRAHSPAPGGHSEPFLYPPSLTPHLITEHLSAVYNTLGTPLSLE
+                                                                    :    .  
+
+Q4R812          ELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINV
+Q9P0R6          ELSSMSGFEEGSELNGFEGTDMKDMRLEAEAVVNDVLFAVNNMFVSKSLRCADDVAYINV
+Q5PPI3          DLSSMSGFEEGSELNGFEGTDMKDMQLEAEAVVNDVLFAVNNMFVSKSLPCADDVAYINV
+Q8BGR8          ELSSMSGFEEGSELNGFEGADMKDMQLEAEAVVNDVLFAVNHMFVSKSMPCADDVAYINV
+A0A2F0AUL6      ELSSVSAFEEDAELNGFEGTDMKDMRLEAEAVVNDVLFAVNTMFVSKTLRCADDVAYINV
+Q0P5A3          ELSGVSGFEEEAELNGFEGTDMKDMRLEAEAVVNDVLFAVNTMFVSKTLRCADDVAYINV
+A0A3Q7X1M1      ELSSMSGFEEDAELNGFEEADMKDMKLEAEAVVNDVLFAVNNMFVSKNLRCADDVAYINV
+A0A8K0BGN8      ELPNNMGFEEDSDYRDFEGTDVKDMRLEAEAVVNDVLFAVSNMFVSKTLPCAEDVAYINV
+A0A8K0C289      ELPNNMGFEEDSDYRDFEGTDVKDMRLEAEAVVNDVLFAVSNMFVSKTLPCAEDVAYINV
+Q5ZMC6          ELTNNTESEEDSDYRDFEEADVKDMRLEAEAVVNDVLFAVSNMFVSKTLPCAEDVAYINV
+A0A1L8F9M0      DLPVNTVYEDDSEFRDLEGTEGKDMCLEAEAIVNDVLFAVGNMFVSKTLPCAVDVAYINV
+A4IIW5          DLPVNTVYEDESEFRDLEGTDVKDMCLEAEAIVNDVLFAVGNMFVSKTLPCAVDVAYINV
+A0A8M2B5T9      DLSKCS-YDERC----VELGEVKDMRLEAEAVVNDVLFAVSDMHVSHNLSSGLDVAYINV
+A0A8M9P8U9      DLSKCS-YDERC----VELGEVKDMRLEAEAVVNDVLFAVSDMHVSHNLSSGLDVAYINV
+Q7ZWI4          DLSKCS-YDERC----VELGEVKDMRLEAEAVVNDVLFAVSDMHVSHNLSSGLDVAYINV
+A0A6P7LMK8      DSIVSS-FDEDS----VELGDVKDMRLEAEAVVNDVLFAVAEMHVSQSLTSALDVAYINV
+A0A0B2V7H1      EIGRANRKRHAELGGLVDTKEGGPLELEAIAAVHELASEVRSISVSEMLPRTADLIFVNV
+A0A0M3K7P8      EIGRANRKRHAERGGLVDVKEGGPLELEAIAAVHELASEVRSISVSEMLPRTADLIFVNV
+                :        .      .:  :   : *** * *:::   *  : **. :    *: ::**
+
+Q4R812          ETKE--------------------------RNRYCLELTEAGLKVVGYDFDQVD-----D
+Q9P0R6          ETKE--------------------------RNRYCLELTEAGLKVVGYAFDQVD-----D
+Q5PPI3          ETKE--------------------------RNRYCLELTEAGLRVVGYAFDQVE-----D
+Q8BGR8          ETKE--------------------------RNRYCLELTEAGLRVVGYAFDQVE-----D
+A0A2F0AUL6      ETRE--------------------------RNRYCLELTEAGLRVVGYAFDQVD-----D
+Q0P5A3          ETRE--------------------------RNRYCLELTEAGLRVVGYAFDQVD-----D
+A0A3Q7X1M1      ETRE--------------------------RNRYCLELTEAGLRVVGYAFDQVD-----D
+A0A8K0BGN8      ETRE--------------------------RNRYCLELTEAGLRVVAYDFDQTD-----D
+A0A8K0C289      ETRE--------------------------RNRYCLELTEAGLRVVAYDFDQTD-----D
+Q5ZMC6          ETRE--------------------------RGRYCVELTDSGLRVVAYDFDQTD-----D
+A0A1L8F9M0      EIKE--------------------------GTRYCLELTEAGLRVVGYAYDHLA-----E
+A4IIW5          EIKE--------------------------GTRYCLELTDAGLRVAGYAFDHLA-----E
+A0A8M2B5T9      ETRE--------------------------GNRYCLELTEAGLRVVGHTFDKVN-----D
+A0A8M9P8U9      ETRE--------------------------GNRYCLELTEAGLRVVGHTFDKVN-----D
+Q7ZWI4          ETRE--------------------------GNRYCLELTEAGLKVVGHTFDKVN-----D
+A0A6P7LMK8      ETRE--------------------------GNRYCLELTEAGLRVVGYAFDQVN-----E
+A0A0B2V7H1      KTVE--------------------------DQPFTLELTMKGWRVASLQWDSMNGDYTKV
+A0A0M3K7P8      KTVEERQCWHKEQLRFRSVSERLIEFFSITDQPFTLELTMKGWRVASIQWDSMNGDYTKV
+                :  *                             : :***  * :*..  :*         
+
+Q4R812          HLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKR----------------------
+Q9P0R6          HLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKR----------------------
+Q5PPI3          HLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKR----------------------
+Q8BGR8          HLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKR----------------------
+A0A2F0AUL6      HLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKR----------------------
+Q0P5A3          HLQTPYHETVYSLLDTLSPAYREAFGNALLQRLEALKR----------------------
+A0A3Q7X1M1      HLHSPYHETVYSLLDTLSPAYREAFGNALLQRLEALKT----------------------
+A0A8K0BGN8      RLQTPYHETVYSLLDSLSPAYREVFGNALLQRLEALKK----------------------
+A0A8K0C289      RLQTPYHETVYSLLDSLSPAYREVFGNALLQRLEALKK----------------------
+Q5ZMC6          SLQNPYHETVYSLLDTLSPAYREVFGNALLQRLEALKR----------------------
+A0A1L8F9M0      GLCSQYHETVYSLLDSISPAYREAFGNALLQRLEALKR----------------------
+A4IIW5          GLCSQYHETVYSLLDSLSPAYREAFGNALLQRLEALKR----------------------
+A0A8M2B5T9      GLSSQYHETVYSLLDSLSPGYREAFGNALLQRLERLKQ----------------------
+A0A8M9P8U9      GLSSQYHETVYSLLDSLSPGYREAFGNALLQRLERLKQ----------------------
+Q7ZWI4          GLSSQYHETVYSLLDSLSPGYREAFGNALLQRLERLKQ----------------------
+A0A6P7LMK8      DLNSQYHETVYSLLDTLSPGYREAFGNALLQQLERLKQ----------------------
+A0A0B2V7H1      DLHTKYYENARALLEVISPAHAQYFNTCLSEKLSQLDSNLDREVDLHTKYYENARALLEV
+A0A0M3K7P8      DLHTKYYENARALLEVISPAHAQYFNTCLSEKLSQLGQ----------------------
+                 * . *:*.. :**: :**.: : *...* ::*. *                        
+
+Q4R812          ------------------------DGQS---------------------
+Q9P0R6          ------------------------DGQS---------------------
+Q5PPI3          ------------------------DGQS---------------------
+Q8BGR8          ------------------------DGQS---------------------
+A0A2F0AUL6      ------------------------DGQS---------------------
+Q0P5A3          ------------------------EGQS---------------------
+A0A3Q7X1M1      ------------------------DGQS---------------------
+A0A8K0BGN8      ------------------------DSQS---------------------
+A0A8K0C289      ------------------------DSQS---------------------
+Q5ZMC6          ------------------------DSQS---------------------
+A0A1L8F9M0      ------------------------DGQ----------------------
+A4IIW5          ------------------------DGQS---------------------
+A0A8M2B5T9      ------------------------NGQ----------------------
+A0A8M9P8U9      ------------------------NGQ----------------------
+Q7ZWI4          ------------------------NGQ----------------------
+A0A6P7LMK8      ------------------------NGQ----------------------
+A0A0B2V7H1      ISPAHAQYFNTCLSEKLSQLDSNLDRESDDAYDQNSSHDDEGLVFRFGR
+A0A0M3K7P8      ------------------------NQEEDISGGTNSPRDDEGLVFNFGS
+                                        : :                      
